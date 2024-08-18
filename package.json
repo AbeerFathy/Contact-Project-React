@@ -2,12 +2,8 @@
   "name": "contact",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AbeerFathy.github.io/React Contact",
+  "homepage": "https://AbeerFathy.github.io/Contact",
   "type": "module",
-
-
-
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
